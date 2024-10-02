@@ -1,0 +1,42 @@
+{
+    {
+        "name": "Nabi Muhammad SAW",
+        "children": [
+            {
+                "name": "Sayyidina al-Qasim bin Muhammad SAW"},
+            {
+                "name": "Sayyidah Zainab binti Muhammad SAW",
+                "children": [
+                    {
+                        "name": "Ali bin Abdul Ash"},
+                    {
+                        "name": "Umamah binti Abdul Ash"}
+                ]},
+            {
+                "name": "Sayyidah Ruqayyah bin Muhammad SAW",
+                "children": [
+                    {
+                        "name": "Abdullah bin Utsman bin Affan"}
+                ]},
+            {
+                "name": "Sayyidah Ummu Kultsum binti Muhammad SAW"},
+            {
+                "name": "Sayyidah Fatimah az-Zahra binti Muhammad SAW",
+                "children": [
+                    {
+                        "name": "Hasan bin Ali bin Abi Thalib"},
+                    {
+                        "name": "Husain bin Ali bin Abi Thalib"},
+                    {
+                        "name": "Muhsin bin Ali bin Abi Thalib"},
+                    {
+                        "name": "Zainab binti Ali bin Abi Thalib"},
+                    {
+                        "name": "Ummu Kultsum binti Ali bin Abi Thalib"}
+                ]},
+            {
+                "name": "Sayyidina Abdullah bin Muhammad SAW"},
+            {
+                "name": "Sayyidina Ibrahim bin Muhammad SAW"}
+        ]}
+}
